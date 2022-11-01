@@ -1,0 +1,57 @@
+body{
+  
+  background-image: url("../images/55.jpg");
+  background-color: #B1C0C5;
+  background-repeat: no-repeat;
+
+  
+ }
+
+.home{
+  font-size: 100px;
+  font-style: Italic;
+  font-family: 'Mali', cursive;
+  
+}
+
+.fac{
+  font-size: 100px;
+  font-style: Italic;
+  font-family: 'Mali', cursive;
+  
+  
+}
+
+h1{
+  font-size: 60px;
+  font-style: Italic;
+  font-family: 'Mali', cursive;
+  
+  
+}
+
+
+p{
+  font-size: 23px;
+  font-style: Italic;
+  font-family: 'Mali', cursive;
+  
+  
+  
+}
+
+h2{
+  font-size: 60px;
+  font-style: Italic;
+  font-family: 'Mali', cursive;
+  
+
+}
+
+.au{
+  font-size: 25px;
+  font-style: Italic;
+  font-family: 'Mali', cursive;
+  
+  
+}
